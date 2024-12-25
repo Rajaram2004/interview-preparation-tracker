@@ -31,16 +31,16 @@
 10. [x] [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
 11. [x] [Search Insert Position](https://leetcode.com/problems/search-insert-position/)
 12. [x] [Number of occurrence](https://www.geeksforgeeks.org/problems/number-of-occurrence2259/0)
-13. [ ] [Find Peak Element](https://leetcode.com/problems/find-peak-element/)
-14. [ ] [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)
-15. [ ] [Square Root](https://leetcode.com/problems/sqrtx/description/)
-16. [ ] [Pow(x, n)](https://leetcode.com/problems/powx-n/)
-17. [ ] [Find nth root of m](https://www.geeksforgeeks.org/problems/find-nth-root-of-m5843/0)
+13. [x] [Find Peak Element](https://leetcode.com/problems/find-peak-element/)
+14. [x] [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)
+15. [x] [Square Root](https://leetcode.com/problems/sqrtx/description/)
+16. [x] [Pow(x, n)](https://leetcode.com/problems/powx-n/)
+17. [x] [Find nth root of m](https://www.geeksforgeeks.org/problems/find-nth-root-of-m5843/0)
 18. [ ] [K-th element of two Arrays](https://www.geeksforgeeks.org/problems/k-th-element-of-two-sorted-array1317/0)
-19. [ ] [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square)
+19. [x] [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square)
 20. [ ] [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/)
 21. [ ] [First Bad Version](https://leetcode.com/problems/first-bad-version/)
-22. [ ] [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)
+22. [x] [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)
 
 ## Binary Search in 2D Array
 
