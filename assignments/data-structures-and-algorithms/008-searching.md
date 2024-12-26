@@ -38,7 +38,7 @@
 17. [x] [Find nth root of m](https://www.geeksforgeeks.org/problems/find-nth-root-of-m5843/0)
 18. [ ] [K-th element of two Arrays](https://www.geeksforgeeks.org/problems/k-th-element-of-two-sorted-array1317/0)
 19. [x] [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square)
-20. [ ] [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/)
+20. [x] [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/)
 21. [ ] [First Bad Version](https://leetcode.com/problems/first-bad-version/)
 22. [x] [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)
 
