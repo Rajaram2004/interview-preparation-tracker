@@ -33,8 +33,8 @@
   - - [ ] Shadowing
   - - [ ] Variable Length Arguments
 - [x] Pattern Problems
-    - - [ ] Star patterns
-    - - [ ] Number patterns
+    - - [x] Star patterns
+    - - [x] Number patterns
     - - [ ] String patterns
 - [] Arrays
   - - [x] Introduction
@@ -45,7 +45,7 @@
     - - [x] Insertion Sort
     - - [x] Selection Sort
     - - [x] Bubble Sort
-    - - [ ] Cyclic Sort
+    - - [x] Cyclic Sort
   - - [ ] 2D Arrays
     - - [ ] Introduction
     - - [ ] Traversal
