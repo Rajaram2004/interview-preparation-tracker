@@ -19,23 +19,23 @@
 
 ## Binary Search in 1D Array
 
-01. [x] [Binary Search](https://leetcode.com/problems/binary-search/)
-02. [x] Order Agnostic Binary Search
-03. [x] [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/)
-04. [x] [Ceiling of the Number](https://www.geeksforgeeks.org/problems/ceil-the-floor2802/0)
-05. [x] [Floor of the Number](https://www.geeksforgeeks.org/floor-in-a-sorted-array/)
-06. [x] [Find Mountain Peak in the Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)
-07. [x] Infinite Array - Find the Target in an Infinite Array Using Binary Search. Description: You are given an infinite sorted array, and you need to find the index of a given target using binary search. Since the array is infinite, you cannot determine its size or directly access out-of-bound indices.
-08. [x] [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
-09. [x] [Rotated Binary Search](https://leetcode.com/problems/search-in-rotated-sorted-array/)
-10. [x] [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
-11. [x] [Search Insert Position](https://leetcode.com/problems/search-insert-position/)
-12. [x] [Number of occurrence](https://www.geeksforgeeks.org/problems/number-of-occurrence2259/0)
-13. [x] [Find Peak Element](https://leetcode.com/problems/find-peak-element/)
-14. [x] [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)
-15. [x] [Square Root](https://leetcode.com/problems/sqrtx/description/)
-16. [x] [Pow(x, n)](https://leetcode.com/problems/powx-n/)
-17. [x] [Find nth root of m](https://www.geeksforgeeks.org/problems/find-nth-root-of-m5843/0)
+01. [ ] [Binary Search](https://leetcode.com/problems/binary-search/)
+02. [ ] Order Agnostic Binary Search
+03. [ ] [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/)
+04. [ ] [Ceiling of the Number](https://www.geeksforgeeks.org/problems/ceil-the-floor2802/0)
+05. [ ] [Floor of the Number](https://www.geeksforgeeks.org/floor-in-a-sorted-array/)
+06. [ ] [Find Mountain Peak in the Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)
+07. [ ] Infinite Array - Find the Target in an Infinite Array Using Binary Search. Description: You are given an infinite sorted array, and you need to find the index of a given target using binary search. Since the array is infinite, you cannot determine its size or directly access out-of-bound indices.
+08. [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
+09. [ ] [Rotated Binary Search](https://leetcode.com/problems/search-in-rotated-sorted-array/)
+10. [ ] [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
+11. [ ] [Search Insert Position](https://leetcode.com/problems/search-insert-position/)
+12. [ ] [Number of occurrence](https://www.geeksforgeeks.org/problems/number-of-occurrence2259/0)
+13. [ ] [Find Peak Element](https://leetcode.com/problems/find-peak-element/)
+14. [ ] [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)
+15. [ ] [Square Root](https://leetcode.com/problems/sqrtx/description/)
+16. [ ] [Pow(x, n)](https://leetcode.com/problems/powx-n/)
+17. [ ] [Find nth root of m](https://www.geeksforgeeks.org/problems/find-nth-root-of-m5843/0)
 18. [ ] [K-th element of two Arrays](https://www.geeksforgeeks.org/problems/k-th-element-of-two-sorted-array1317/0)
 19. [x] [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square)
 20. [x] [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/)
