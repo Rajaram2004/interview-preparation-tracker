@@ -45,5 +45,5 @@
 11. [x] [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/)
 12. [x] [Lucky Number In a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/)
 13. [x] [Rotate Image](https://leetcode.com/problems/rotate-image/)
-13. [ ] [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)
+13. [x] [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)
 13. [ ] [Game of Life](https://leetcode.com/problems/game-of-life/)
