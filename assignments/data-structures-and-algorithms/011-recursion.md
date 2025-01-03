@@ -21,9 +21,9 @@
 19. [x] [Number of Steps to Reduce a Number to Zero.](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)
 20. [ ] [Check for balanced paranthesis using recursion without stack.](https://www.geeksforgeeks.org/check-for-balanced-parenthesis-without-using-stack/)
 21. [x] [Remove consecutive duplicate characters from a string.](https://www.geeksforgeeks.org/remove-consecutive-duplicates-string/)
-22. [ ] Subset question Eg. Input "abc". Output: [a, b, c, ab, bc, ac, abc, ""]
-23. [ ] Subsequence question Eg. Input [1, 2, 3]. Output: [1, 2, 3, 12, 13, 23, 123, []]
-24. [ ] [Combination Sum](https://leetcode.com/problems/combination-sum/)
+22. [x] Subset question Eg. Input "abc". Output: [a, b, c, ab, bc, ac, abc, ""]
+23. [x] Subsequence question Eg. Input [1, 2, 3]. Output: [1, 2, 3, 12, 13, 23, 123, []]
+24. [x] [Combination Sum](https://leetcode.com/problems/combination-sum/)
 25. [ ] [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)
 26. [ ] [combination Sum III](https://leetcode.com/problems/combination-sum-iii/)
 27. [ ] [Word Search](https://leetcode.com/problems/word-search/)
