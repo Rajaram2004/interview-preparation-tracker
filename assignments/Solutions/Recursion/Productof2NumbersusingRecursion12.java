@@ -1,4 +1,4 @@
-package assignments.Solutions.Recursion;
+  
 
 public class Productof2NumbersusingRecursion12 {
     public static void main(String[] args) {
