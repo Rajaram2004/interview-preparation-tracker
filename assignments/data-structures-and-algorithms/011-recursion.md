@@ -36,7 +36,7 @@
 34. [ ] [decode string](https://leetcode.com/problems/decode-string/)
 35. [ ] [find the winner of the circular game](https://leetcode.com/problems/find-the-winner-of-the-circular-game/)
 36. [ ] [Different ways to add parantheses in the expression](https://leetcode.com/problems/different-ways-to-add-parentheses/)
-37. [ ] [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
+37. [x] [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
 38. [ ] [Predict the winner.](https://leetcode.com/problems/predict-the-winner/)
 39. [x] [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)
 40. [ ] [Letter tile possibilities](https://leetcode.com/problems/letter-tile-possibilities/)

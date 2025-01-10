@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "RatinaMaze",
+            "request": "launch",
+            "mainClass": "RatinaMaze",
+            "projectName": "interview-preparation-tracker_7b97e7dd"
+        },
+        {
+            "type": "java",
             "name": "M_Colouring63",
             "request": "launch",
             "mainClass": "M_Colouring63",
