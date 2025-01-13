@@ -1,4 +1,4 @@
-package assignments.Solutions.Recursion;
+
 
 public class Sumofdigitofanumberusingrecursion {
     public static void main(String[] args){

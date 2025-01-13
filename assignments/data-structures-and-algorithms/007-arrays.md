@@ -23,8 +23,8 @@
 19. [x] [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
 20. [x] [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
 21. [x] [Rotate Array](https://leetcode.com/problems/rotate-array/)
-22. [ ] [Sort Colors](https://leetcode.com/problems/sort-colors/)
-23. [ ] [Count Pairs Whose Sum is Less than Target](https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/description/)
+22. [x] [Sort Colors](https://leetcode.com/problems/sort-colors/)
+23. [x] [Count Pairs Whose Sum is Less than Target](https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/description/)
 24. [ ] Kadane’s Algorithm
 25. [ ] [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
 26. [ ] [Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/)

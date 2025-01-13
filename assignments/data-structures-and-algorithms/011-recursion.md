@@ -50,7 +50,7 @@
 48. [ ] [Reorder List](https://leetcode.com/problems/reorder-list/)
 49. [ ] [Parsing A Boolean Expression](https://leetcode.com/problems/parsing-a-boolean-expression/)
 50. [ ] [Special Binary String](https://leetcode.com/problems/special-binary-string/)
-51. [ ] [Permutation Sequence](https://leetcode.com/problems/permutation-sequence/)
+51. [x] [Permutation Sequence](https://leetcode.com/problems/permutation-sequence/)
 52. [ ] [Next Happy Number](https://practice.geeksforgeeks.org/problems/next-happy-number4538/1/)
 53. [ ] [Basic Calculator](https://leetcode.com/problems/basic-calculator/)
 54. [ ] [Integer to English Words](https://leetcode.com/problems/integer-to-english-words/)
