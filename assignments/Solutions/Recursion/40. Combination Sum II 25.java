@@ -38,6 +38,8 @@
 // 1 <= target <= 30
 
 import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.List;
 
 class Solution {
     public List<List<Integer>> combinationSum2(int[] candidates, int target) {
@@ -61,7 +63,7 @@ class Solution {
             target=target-candidates[i];
             sum2(i+1,candidates,target,ans,list);
             list.remove(list.size()-1);
-            target=target+candidates[i];
+            target=target+candidates[i]; 
             
         }
 

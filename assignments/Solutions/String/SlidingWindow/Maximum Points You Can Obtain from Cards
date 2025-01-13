@@ -1,0 +1,50 @@
+//staright forward approach
+class Solution {
+    public int maxScore(int[] cardPoints, int k) {
+        int leftsum=0,rightsum=0,total=0;
+        int rightpointer=cardPoints.length-1;
+       int lefttpointer=k-1;
+        for(int i=k-1;i>=0;i--){
+            leftsum+=cardPoints[i];
+        }
+       int max=leftsum+rightsum;
+        while(rightpointer>(cardPoints.length-k-1)){
+            leftsum-=cardPoints[lefttpointer--];
+            rightsum+=cardPoints[rightpointer--];
+            total=leftsum+rightsum;
+            max=Math.max(total,max);
+
+        }
+        return max;
+
+    }
+}
+
+
+
+// using recursion
+public class MaxPointsFromCards {
+    public static int maxScore(int[] cardPoints, int k) {
+        return helper(cardPoints, 0, cardPoints.length - 1, k);
+    }
+
+    private static int helper(int[] cardPoints, int left, int right, int remaining) {
+        // Base case: no cards left to pick
+        if (remaining == 0) {
+            return 0;
+        }
+
+        // Recursive case: choose either the leftmost or rightmost card
+        int pickLeft = cardPoints[left] + helper(cardPoints, left + 1, right, remaining - 1);
+        int pickRight = cardPoints[right] + helper(cardPoints, left, right - 1, remaining - 1);
+
+        // Return the maximum score of both choices
+        return Math.max(pickLeft, pickRight);
+    }
+
+    public static void main(String[] args) {
+        int[] cardPoints = {1, 2, 3, 4, 5, 6, 1};
+        int k = 3;
+        System.out.println(maxScore(cardPoints, k)); // Output: 12
+    }
+}

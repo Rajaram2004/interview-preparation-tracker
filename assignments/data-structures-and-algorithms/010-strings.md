@@ -30,28 +30,34 @@
 ## Sliding Window (Two Pointer) Algorithm
 
 
-01. [ ] [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
-02. [ ] [Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)
-03. [ ] [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)
+01. [x] [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+02. [x] [Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)
+03. [x] [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)
 04. [ ] [Check If a String Contains All Binary Codes of Size K](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/)
-05. [ ] [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)
-06. [ ] [Permutation in String](https://leetcode.com/problems/permutation-in-string/)
-07. [ ] [Substrings of Size Three with Distinct Characters](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/)
+05. [x] [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)
+06. [x] [Permutation in String](https://leetcode.com/problems/permutation-in-string/)
+07. [x] [Substrings of Size Three with Distinct Characters](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/)
 07. [ ] [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)
-08. [ ] [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)
+08. [x] [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)
 09. [ ] [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)
 10. [ ] [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
 11. [ ] [Is Subsequence](https://leetcode.com/problems/is-subsequence/)
-12. [ ] [Two Sum](https://leetcode.com/problems/two-sum/)
-13. [ ] [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
-14. [ ] [3Sum](https://leetcode.com/problems/3sum/description/)
+12. [x] [Two Sum](https://leetcode.com/problems/two-sum/)
+13. [x] [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
+14. [x] [3Sum](https://leetcode.com/problems/3sum/description/)
 15. [ ] [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
 
 
 ### Do It After Recursion
 
-01. [ ] [Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/)
+01. [x] [Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/)
 02. [ ] [Maximum Sum of Distinct Subarrays With Length K](https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/)
 03. [ ] [Sliding Subarray Beauty](https://leetcode.com/problems/sliding-subarray-beauty/)
 04. [ ] [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)
 05. [ ] [Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/)
+
+
+### Additional program i did
+1004. [x] [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/description/)
+904. [x] [Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/description/)
+340. [ ] [Longest Substring With At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/description/) 
