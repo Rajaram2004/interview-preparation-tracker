@@ -25,16 +25,6 @@
 // Each node's value is either 0 or 1.
 
 
-/**
- * Definition for singly-linked list.
- * public class ListNode {
- *     int val;
- *     ListNode next;
- *     ListNode() {}
- *     ListNode(int val) { this.val = val; }
- *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
- * }
- */
 class Solution {
     public int getDecimalValue(ListNode head) {
       
@@ -52,5 +42,16 @@ class Solution {
             temp=temp.next;
         }
         return ans;
+    }
+    class ListNode{
+        int val;
+        ListNode next;
+        ListNode(int val){
+            this.val=val;
+        }
+        ListNode(int val,ListNode node){
+            this.val=val;
+            this.next=node;
+        }
     }
 }

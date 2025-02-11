@@ -28,6 +28,8 @@
 
 // Follow up: Could you solve it without reversing the input lists?
 
+import java.util.Stack;
+
 class Solution {
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
         ListNode t1=l1;
@@ -61,5 +63,16 @@ class Solution {
         }
         return ans;
      
+    }
+    class ListNode{
+        int val;
+        ListNode next;
+        ListNode(int val){
+            this.val=val;
+        }
+        ListNode(int val,ListNode node){
+            this.val=val;
+            this.next=node;
+        }
     }
 }

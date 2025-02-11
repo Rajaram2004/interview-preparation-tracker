@@ -65,4 +65,11 @@ class Solution {
         }
         return head.next;
     }
+    class ListNode{
+        int val;
+        ListNode next;
+        ListNode(int val){
+            this.val=val;
+        }
+    }
 }

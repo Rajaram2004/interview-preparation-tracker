@@ -77,14 +77,16 @@ public class Solution {
         }
         return headA;
     }
-}
-
-public class ListNode {
-    int val;
-    ListNode next;
-
-    ListNode(int x) {
-        val = x;
-        next = null;
+    class ListNode{
+        int val;
+        ListNode next;
+        ListNode(int val){
+            this.val=val;
+        }
+        ListNode(int val,ListNode node){
+            this.val=val;
+            this.next=node;
+        }
     }
 }
+

@@ -1,6 +1,7 @@
 // You are given the head of a linked list, and an integer k.
 
-// Return the head of the linked list after swapping the values of the kth node from the beginning and the kth node from the end (the list is 1-indexed).
+// Return the head of the linked list after swapping the values of the kth node 
+///from the beginning and the kth node from the end (the list is 1-indexed).
 
 // Example 1:
 
@@ -35,5 +36,16 @@ class Solution {
         beginNode.val = slow.val;
         slow.val = val;
         return head;
+    }
+    class ListNode{
+        int val;
+        ListNode next;
+        ListNode(int val){
+            this.val=val;
+        }
+        ListNode(int val,ListNode node){
+            this.val=val;
+            this.next=node;
+        }
     }
 }

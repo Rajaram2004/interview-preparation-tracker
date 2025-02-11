@@ -36,4 +36,8 @@ class Solution {
         slow.next = slow.next.next;
         return head;
     }
+    class ListNode{
+        int val;
+        ListNode next;
+    }
 }

@@ -45,4 +45,15 @@ public class Solution {
         }
         return head;
     }
+    class ListNode{
+        int val;
+        ListNode next;
+        ListNode(int val){
+            this.val=val;
+        }
+        ListNode(int val,ListNode node){
+            this.val=val;
+            this.next=node;
+        }
+    }
 }
