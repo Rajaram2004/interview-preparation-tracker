@@ -1,8 +1,8 @@
 # Stack and Queue Problems
 
-01. [ ] Stack Implementation (With the following methods - push, pop, peek, sizeOf, display)
-02. [ ] [Next greater element I](https://leetcode.com/problems/next-greater-element-i/)
-03. [ ] [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
+01. [x] Stack Implementation (With the following methods - push, pop, peek, sizeOf, display)
+02. [x] [Next greater element I](https://leetcode.com/problems/next-greater-element-i/)
+03. [x] [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
 04. [ ] [Min Stack](https://leetcode.com/problems/min-stack/)
 05. [ ] [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/)
 06. [ ] [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)
