@@ -35,6 +35,8 @@
 // 1 <= s.length <= 104
 // s consists of parentheses only '()[]{}'.
 
+import java.util.Stack;
+
 class Solution {
     public boolean isValid(String s) {
         Stack<Character> st = new Stack<>();
